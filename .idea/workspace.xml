@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d2f472-152d-4017-8102-c92f512fa2bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jade.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atelier4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jade.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agents/AgentBuyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agents/AgentClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agents/AgentSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ContainerBuyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ContainerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ContainerSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agents/AgentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/agents/AgentClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agents/AgentSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/agents/AgentSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/salah/Documents/Distribued system/Atelier4/lib/jade.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/salah/Documents/Distribued system/Atelier4&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\salah\Documents\Distribued system\Atelier4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainerBuyer">
+  <component name="RunManager" selected="Application.ContainerSeller">
     <configuration name="ContainerBuyer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="containers.ContainerBuyer" />
       <module name="Atelier4" />
@@ -110,9 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContainerClient" />
         <item itemvalue="Application.ContainerSeller" />
         <item itemvalue="Application.ContainerBuyer" />
+        <item itemvalue="Application.ContainerClient" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -126,6 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668087705505</updated>
       <workItem from="1668087708341" duration="11481000" />
+      <workItem from="1668252190599" duration="894000" />
+      <workItem from="1668346054537" duration="2949000" />
     </task>
     <servers />
   </component>

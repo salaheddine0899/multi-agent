@@ -35,16 +35,5 @@ public class AgentClient extends Agent {
                 }
             }
         });
-        //addBehaviour(parallelBehaviour);
-        /*addBehaviour(new OneShotBehaviour() {
-            @Override
-            public void action() {
-                ACLMessage message=new ACLMessage(ACLMessage.REQUEST);
-                message.addReceiver(new AID("buyer",AID.ISLOCALNAME));
-                message.setContent("I wanna a laptop!");
-                send(message);
-                System.out.println("message sent!!");
-            }
-        });*/
     }
 }

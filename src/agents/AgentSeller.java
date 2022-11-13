@@ -10,9 +10,6 @@ public class AgentSeller extends Agent {
     @Override
     protected void setup() {
         System.out.println("this is "+getAID());
-        /*ServiceDescription serviceDescription=new ServiceDescription();
-        serviceDescription.setType("Buy a laptop");
-        serviceDescription.setName("Jade-commerce");*/
         addBehaviour(new CyclicBehaviour() {
             @Override
             public void action() {
